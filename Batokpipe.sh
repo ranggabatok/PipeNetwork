@@ -1,14 +1,22 @@
 #!/bin/bash
 
-# Menampilkan ASCII Art untuk "Batok"
-echo "
-██████╗  █████╗ ████████╗ ██████╗ ██╗  ██╗
+# =============================================================================
+# Script Name: Batokpipe.sh
+# Description: This script performs Update PipeNetwork operations.
+# Author: Batok
+# Date Created: 2024-12-22
+# Version: 1.0
+# License: MIT License
+# =============================================================================
+
+# Your script code starts here
+echo "██████╗  █████╗ ████████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██║ ██╔╝
 ██████╔╝███████║   ██║   ██║   ██║█████╔╝ 
 ██╔══██╗██╔══██║   ██║   ██║   ██║██╔═██╗ 
 ██████╔╝██║  ██║   ██║   ╚██████╔╝██║  ██╗
 ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
- "                                         
+                                          "                      
                                           
 # Meminta input URL
 read -p "Masukkan PIPE-URL: " PIPE_URL

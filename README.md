@@ -1,3 +1,5 @@
+Untuk yang belum pernah run sebelumnya
+
 1. Buka email terbaru dari Pipe
 - Salin link Pipe-Tool
 - Salin link DCND

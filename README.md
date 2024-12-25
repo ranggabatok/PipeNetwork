@@ -12,5 +12,5 @@ wget https://raw.githubusercontent.com/ranggabatok/PipeNetwork/refs/heads/main/r
 - Scan QR Code lalu Login akun kita
 - Langsung enter ketika : Enter passphrase (Optional) for the mnemonic
 - Back up Phrase Wallet Pipe
-- Ketik Q lalu ketik confirm
+- Ketik q lalu ketik confirm
 - Done
